@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nyuark
+- 👀 I’m interested in web applications programming
+- 🌱 I’m currently coding in PHP / Vue / Python / Java and have created more than a dozen applications using either handmade frameworks or existing ones
+- 💞️ I’m looking to collaborate on anything related to microservices and lightweight framworks, UI/UX, writting, editing, broadcasting, booking, ticketing, and e-learning 
+- 📫 you can contact me by sending a mail to dev@nyuark.com
